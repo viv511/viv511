@@ -1,11 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=5e548e&height=200&section=header&text=@viv511&fontColor=9f86c0&fontSize=90)
+##
 
+<h5>Hi! My name is Vivek Mehta, a rising senior interested in competitive programming, robotics, and more recently, AI & Data Science. I also enjoy game and web development. :D This is a work in progress, but feel free to check out my repositories down below!</h5>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=219ebc&height=200&section=header&text=@viv511&fontColor=8ecae6&fontSize=90)
-
-work in progress !!
-
-check out my repositories below :)
+#
 
 ### Languages & Skills 
 
@@ -43,7 +41,12 @@ check out my repositories below :)
 
 <br />
 
+<br>
 
+
+[![viv511's GitHub stats](https://github-readme-stats.vercel.app/api?username=viv511&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv511&langs_count=10&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
     **viv511/viv511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
