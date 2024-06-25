@@ -1,7 +1,9 @@
+<span>
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=983489&height=200&section=header&text=@viv511&fontColor=dc87b4&fontSize=90)
 ##
 
-<h5>Hi! My name is Vivek Mehta, a rising senior interested in competitive programming, robotics, and more recently, AI & Data Science. I also enjoy game and web development. :D This is a work in progress, but feel free to check out my repositories down below!</h5>
+Hi! My name is Vivek Mehta, a rising senior interested in competitive programming, robotics, and more recently, AI & Data Science. I also enjoy game and web development. :D This is a work in progress, but feel free to check out my repositories down below!
 
 #
 
@@ -61,4 +63,3 @@
 - ⚡ Fun fact: ...
 
 --> 
-
