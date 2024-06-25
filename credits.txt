@@ -1,0 +1,3 @@
+https://github.com/kyechan99/capsule-render ==> Username Blob Animation
+Devicon ==> Icons
+https://github.com/ForrestKnight/ForrestKnight/blob/master/README.md ==> Icon Alignment Code

@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=219ebc&height=200&section=header&text=@viv511&fontColor=8ecae6&fontSize=90)
+
 work in progress !!
 
 check out my repositories below :)
@@ -8,7 +11,7 @@ check out my repositories below :)
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> 
 
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> 
+<!-- <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>  -->
 
 <img align="left" alt="Vsc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> 
 
@@ -32,7 +35,7 @@ check out my repositories below :)
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/> 
 
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg"/> 
+<!-- <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg"/>  -->
 
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/> 
 
@@ -44,7 +47,7 @@ check out my repositories below :)
 
 <!-- Here are some ideas to get you started:
     **viv511/viv511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
