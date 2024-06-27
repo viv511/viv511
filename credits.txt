@@ -2,3 +2,4 @@ https://github.com/kyechan99/capsule-render ==> Username Blob Animation
 https://devicon.dev/ ==> Icons
 https://github.com/ForrestKnight/ForrestKnight/blob/master/README.md ==> Icon Alignment Code
 https://github.com/anuraghazra/github-readme-stats ==> Stats, Languages
+https://github.com/404Nikhil ==> Streak & Contributions

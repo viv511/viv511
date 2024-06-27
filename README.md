@@ -1,11 +1,17 @@
 <span>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=983489&height=200&section=header&text=@viv511&fontColor=dc87b4&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=097dff&height=200&section=header&text=@viv511&fontColor=f88bff&fontSize=90)
 ##
 
 Hi! My name is Vivek Mehta, a rising senior interested in competitive programming, robotics, and more recently, AI & Data Science. I also enjoy game and web development. :D This is a work in progress, but feel free to check out my repositories down below!
 
 #
+
+<!-- <h1 align="center"> 🔥 Contributions: </h1>
+
+<p align= "center">	
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=viv511&show_icons=true&theme=onedark" />
+</p> -->
 
 ### Languages & Skills 
 
@@ -46,9 +52,14 @@ Hi! My name is Vivek Mehta, a rising senior interested in competitive programmin
 <br>
 
 
-[![viv511's GitHub stats](https://github-readme-stats.vercel.app/api?username=viv511&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+[![viv511's GitHub stats](https://github-readme-stats.vercel.app/api?username=viv511&show_icons=true&theme=ambient_gradient&bg_color=DEG,f88bff,cb80ff,575aff,097dff&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv511&langs_count=10&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv511&langs_count=10&layout=compact&theme=ambient_gradient&bg_color=DEG,f88bff,cb80ff,575aff,097dff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- bg_color=edbfff -->
+
 
 <!-- Here are some ideas to get you started:
     **viv511/viv511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
