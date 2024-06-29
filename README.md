@@ -65,6 +65,13 @@ Hi! My name is Vivek Mehta, a rising senior interested in competitive programmin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viv511&show_icons=true&theme=onedark&theme=ambient_gradient&background=0,f88bff,cb80ff,575aff,097dff" />
 </p>
 
+<p align="center" > 
+  
+![](https://komarev.com/ghpvc/?username=viv511&style=flat&color=f88bff)
+
+</p>
+
+
 
 <br>
 <br>
