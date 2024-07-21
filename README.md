@@ -10,8 +10,18 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, a rising senior interested in competitive programming, robotics, and more recently, AI & Data Science. I also enjoy game and web development. :D This is a work in progress, but feel free to check out my repositories down below!
+Hi! My name is Vivek Mehta, a self-taught rising senior with a love for computer science! I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
 
+I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. 
+
+Here are a few that you may find interesting:
+- VEX Robotics - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
+  - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
+- Slime Combine - itch.io
+  - Built & created in under a week with @citrus-melon, 
+- 
+
+(more soon!! in progress <3 ty for your patience)
 </p>
 
 #
