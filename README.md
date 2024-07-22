@@ -17,14 +17,14 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 Here are a few that you may find interesting:
 - VEX Robotics - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
   - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
-- Slime Combine - itch.io
-  - Built & created in under a week with @citrus-melon, 
-- 
+- [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475)
+  - Built & created in under a week with @citrus-melon, for a Brackey's Game Jam hosted on itch.io. Out of the 1.8k entries in the jam, we scored #33rd in Game Design & #64th in Overall metrics.  
+- Web Design!
+  - I like messing around with p5js to create cool simulations, although I'm still learning a lot!
+  - I made a circle generator I made for my Calculus final project. Check out a copy of the slides in the [repository linked](https://github.com/viv511/CirclePacking)!
 
 (more soon!! in progress <3 ty for your patience)
 </p>
-
-#
 
 <br>
 <h1 align="center"> Languages and Skills: </h1>
