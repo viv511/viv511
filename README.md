@@ -2,11 +2,38 @@
 
 <div align="center" > 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=4E8BC4&height=200&section=header&text=@viv511&fontColor=C2E1FC&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=venom&color=7A4B7D&height=200&section=header&text=@viv511&fontColor=D299D5&fontSize=90) 
 
 </div>
 
 ##
+
+<style>
+blue { color: Blue }
+navy { color: Navy }
+turquoise { color: Turquoise }
+teal { color: Teal }
+purple { color: Purple }
+aqua { color: Aqua }
+pink { color: Pink }
+magenta { color: Magenta }
+orchid { color: Orchid }
+plum { color: Plum }
+violet { color: Violet }
+</style>
+
+<blue> Some text! </blue>
+<navy> Some text! </navy>
+<turquoise> Some text! </turquoise>
+<teal> Some text! </teal>
+<aqua> Some text! </aqua>
+<purple> Some text! </purple>
+<pink> Some text! </pink>
+<magenta> Some text! </magenta>
+<orchid> Some text! </orchid>
+<plum> Some text! </plum>
+<violet> Some text! </violet>
+
 
 <p align="center">
 
@@ -14,16 +41,18 @@ Hi! My name is Vivek Mehta, a self-taught rising senior with a love for computer
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. 
 
-Here are a few that you may find interesting:
-- VEX Robotics - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
-  - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
-- [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475)
-  - Built & created in under a week with @citrus-melon, for a Brackey's Game Jam hosted on itch.io. Out of the 1.8k entries in the jam, we scored #33rd in Game Design & #64th in Overall metrics.  
-- Web Design!
-  - I like messing around with p5js to create cool simulations, although I'm still learning a lot!
-  - I made a circle generator I made for my Calculus final project. Check out a copy of the slides in the [repository linked](https://github.com/viv511/CirclePacking)!
+*Here are a few that you may find interesting~*
+- <orchid>VEX Robotics</orchid> - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
+  - I've been lucky to have been part of such a <plum>great team and environment</plum>. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the <plum>software lead and club captain</plum>. My GitHub page contains the <plum>codebase for three VEX seasons</plum>: Tipping Point, Spin Up, & Over Under. 
+- <orchid>Slime Combine!</orchid>
+  - [Built & created in under a week](https://itch.io/jam/brackeys-5/rate/928475) with @citrus-melon, for a Brackey's Game Jam hosted on itch.io. Out of the <plum>1824</plum> entries in the jam, we scored <plum>#33rd</plum> in Game Design & <plum>#64th</plum> in Overall categories.  
+- <orchid>Web Design!</orchid>
+  - I like messing around with <plum>p5js</plum> to create cool simulations, although I'm still learning a lot!
+    - I made a randomized circle generator I made for my <plum>Calculus final project</plum>. This website generates circles within a certain area and applies a <magenta>p</magenta><orchid>in</orchid><plum>k-</plum><aqua>bl</aqua><teal>ue</teal> gradient for aesthetic purposes! I'm currently trying to utilize this to create my own rendition of a [famous internet meme](https://en.wikipedia.org/wiki/Bad_Apple!!#Usages_in_meme_culture)-"If it can render, it can render Bad Apple". In all seriousness, feel free to check out a copy of the accompanied slides in the [repository linked](https://github.com/viv511/CirclePacking)!
 
 (more soon!! in progress <3 ty for your patience)
+
+~viv511
 </p>
 
 <br>
