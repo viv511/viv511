@@ -22,19 +22,6 @@ plum { color: Plum }
 violet { color: Violet }
 </style>
 
-<blue> Some text! </blue>
-<navy> Some text! </navy>
-<turquoise> Some text! </turquoise>
-<teal> Some text! </teal>
-<aqua> Some text! </aqua>
-<purple> Some text! </purple>
-<pink> Some text! </pink>
-<magenta> Some text! </magenta>
-<orchid> Some text! </orchid>
-<plum> Some text! </plum>
-<violet> Some text! </violet>
-
-
 <p align="center">
 
 Hi! My name is Vivek Mehta, a self-taught rising senior with a love for computer science! I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
