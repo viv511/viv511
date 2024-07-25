@@ -10,16 +10,16 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, a self-taught rising senior with a love for computer science! I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
+Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for computer science! I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
 
-I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. 
+I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. :)
 
 *Here are a few that you may find interesting~*
 - **VEX Robotics** - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
   - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and club captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
 - **Slime Combine!**
   - [Built & created in under a week](https://itch.io/jam/brackeys-5/rate/928475) with @citrus-melon, for a Brackey's Game Jam hosted on itch.io. Out of the 1824 entries in the jam, we scored #33rd in Game Design & #64th in Overall categories.  
-- **Web Design!**
+- **Simulations!**
   - I like messing around with p5js to create cool simulations, although I'm still learning a lot!
     - I made a randomized circle generator I made for my Calculus final project. This website generates circles within a certain area and applies a pink-blue gradient for aesthetic purposes! I'm currently trying to utilize this to create my own rendition of a [famous internet meme](https://en.wikipedia.org/wiki/Bad_Apple!!#Usages_in_meme_culture)-"If it can render, it can render Bad Apple". In all seriousness, feel free to check out a copy of the accompanied slides in the [repository linked](https://github.com/viv511/CirclePacking)!
 
