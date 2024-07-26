@@ -18,7 +18,7 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 - **VEX Robotics** - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
   - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and club captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
 - **Slime Combine!**
-  - [Built & created in under a week](https://itch.io/jam/brackeys-5/rate/928475) with @citrus-melon, for a Brackey's Game Jam hosted on itch.io. Out of the 1824 entries in the jam, we scored #33rd in Game Design & #64th in Overall categories.  
+  - [This project](https://itch.io/jam/brackeys-5/rate/928475) was built in under a week with [@citrus-melon](https://github.com/citrus-melon), for a Brackey's Game Jam hosted on itch.io. Out of the 1824 entries in the jam, we scored #33rd in Game Design & #64th in Overall categories.  
 - **Simulations!**
   - I like messing around with p5js to create cool simulations, although I'm still learning a lot!
     - I made a randomized circle generator I made for my Calculus final project. This website generates circles within a certain area and applies a pink-blue gradient for aesthetic purposes! I'm currently trying to utilize this to create my own rendition of a [famous internet meme](https://en.wikipedia.org/wiki/Bad_Apple!!#Usages_in_meme_culture)-"If it can render, it can render Bad Apple". In all seriousness, feel free to check out a copy of the accompanied slides in the [repository linked](https://github.com/viv511/CirclePacking)!
