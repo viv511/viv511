@@ -28,7 +28,7 @@ I love to code because I love breaking down problems into smaller parts, utilizi
   - I find competitive programming really enjoyable because it allows me to think critically and find fun coding solutions to Farmer John's cow-related problems (hehe). I've been able to compete in a few contests, and I'm always looking to improve my skills.
   - [USACO](https://usaco.org/) Silver // [M(IT)^2](https://mitit.org/Contest/Archive/Results2024Winter) - 2nd Place in Division // [Codeforces](https://codeforces.com/profile/viv511)
 
-// Hackathons --> Blueprint + LexHack
+<!-- Hackathons -> Blueprint + LexHack -->
 
 ~viv511
 </p>
