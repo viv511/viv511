@@ -10,7 +10,9 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for computer science! I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
+Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for computer science! 
+
+I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. :)
 
@@ -22,8 +24,11 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 - **Simulations!**
   - I like messing around with p5js to create cool simulations, although I'm still learning a lot!
     - I made a randomized circle generator I made for my Calculus final project. This website generates circles within a certain area and applies a pink-blue gradient for aesthetic purposes! I'm currently trying to utilize this to create my own rendition of a [famous internet meme](https://en.wikipedia.org/wiki/Bad_Apple!!#Usages_in_meme_culture)-"If it can render, it can render Bad Apple". In all seriousness, feel free to check out a copy of the accompanied slides in the [repository linked](https://github.com/viv511/CirclePacking)!
+- **Competitive Programming**
+  - I find competitive programming really enjoyable because it allows me to think critically and find fun coding solutions to Farmer John's cow-related problems (hehe). I've been able to compete in a few contests, and I'm always looking to improve my skills.
+  - [USACO](https://usaco.org/) Silver // [M(IT)^2](https://mitit.org/Contest/Archive/Results2024Winter) - 2nd Place in Division // [Codeforces](https://codeforces.com/profile/viv511)
 
-(more soon!! in progress <3 ty for your patience)
+// Hackathons --> Blueprint + LexHack
 
 ~viv511
 </p>
