@@ -30,7 +30,8 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 - **Hackathons**
   - I love hackathons because they bring so many people together from diverse backgrounds to work on a common goal (and theres usually food and prizes involved >:) ).
   - LexHack
-  - I've attended MIT Blueprint for two years
+  - I've attended [MIT Blueprint](https://blueprint.hackmit.org/) for two years, and have met a lot of really cool people through its community! 
+    - Along with my friends, we made [BobaGuessr](https://github.com/BrilliantDeviation7/BobaGuessr) in 2023 and [TaskApp](https://github.com/connorcarey/task-app) in 2024!
 <!-- Hackathons -> Blueprint + LexHack -->
 
 ~viv511
