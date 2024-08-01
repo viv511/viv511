@@ -16,7 +16,9 @@ I'm fascinated with theoretical computer science, control theory, and automation
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. :)
 
-*Here are a few that you may find interesting~*
+<hr></hr>
+
+*Here are a few of my projects~*
 - **VEX Robotics** - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
   - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and club captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
 - **Slime Combine!**
@@ -37,7 +39,7 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 ~viv511
 </p>
 
-<br>
+
 <h1 align="center"> Languages and Skills: </h1>
 
 <p align="center">
