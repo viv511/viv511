@@ -10,11 +10,11 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for computer science! 
+Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for **computer science**! 
 
-I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development (s/o [Slime Combine!](https://itch.io/jam/brackeys-5/rate/928475))
+I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. 
 
-I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. Thanks for taking a look at my page, I have a lot of things I'm proud of here. :)
+I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development.
 
 <hr></hr>
 
@@ -34,7 +34,6 @@ I love to code because I love breaking down problems into smaller parts, utilizi
   - [LexHack](https://lexhackathon.org/) is a student-led 501(c)(3) nonprofit that my friends and I created in late 2021, and so far we have had two successful events! LexHack aims to provide middle and high school students with opportunities to learn and showcase their computer programming skills at yearly hackathons. We have raised over $10k in prizes and have had 250+ participants! 
   - I've attended [MIT Blueprint](https://blueprint.hackmit.org/) for two years, and have met a lot of really cool people through its community! 
     - Along with my friends, we made [BobaGuessr](https://github.com/BrilliantDeviation7/BobaGuessr) in 2023 and [TaskApp](https://github.com/connorcarey/task-app) in 2024!
-<!-- Hackathons -> Blueprint + LexHack -->
 
 ~viv511
 </p>
@@ -88,11 +87,7 @@ I love to code because I love breaking down problems into smaller parts, utilizi
 
 <h1 align="center"> Contributions & Stats: </h1>
 
-<p align="left" > 
-  
-![](https://komarev.com/ghpvc/?username=viv511&style=flat&color=f88bff)
 
-</p>
 
 
 <p align= "left">
@@ -110,7 +105,11 @@ I love to code because I love breaking down problems into smaller parts, utilizi
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv511&langs_count=10&layout=compact&theme=ambient_gradient&bg_color=DEG,f88bff,cb80ff,575aff,097dff)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+<p align="left" > 
+  
+![](https://komarev.com/ghpvc/?username=viv511&style=flat&color=f88bff)
 
+</p>
 
 </span>
 
