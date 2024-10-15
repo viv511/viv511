@@ -31,7 +31,7 @@ I'm fascinated with theoretical computer science, control theory, and automation
   - [USACO](https://usaco.org/) Silver // [M(IT)^2](https://mitit.org/Contest/Archive/Results2024Winter) - 2nd Place in Division // [Codeforces](https://codeforces.com/profile/viv511)
 - **Hackathons**
   - I love hackathons because they bring so many people together from diverse backgrounds to work on a common goal (and theres usually food and prizes involved >:) ).
-  - [LexHack](https://lexhackathon.org/) is a student-led 501(c)(3) nonprofit that my friends and I created in late 2021, and so far we have had two successful events! LexHack aims to provide middle and high school students with opportunities to learn and showcase their computer programming skills at yearly hackathons. We have raised over $10k in prizes and have had 250+ participants! 
+  - [LexHack](https://lexhackathon.org/) is a student-led 501(c)(3) nonprofit that my friends and I created in late 2021, and so far we have had two successful events! LexHack aims to provide middle and high school students with opportunities to learn and showcase their computer programming skills at yearly hackathons. We have raised $15k+ in prizes and have had 250+ participants! 
   - I've attended [MIT Blueprint](https://blueprint.hackmit.org/) for two years, and have met a lot of really cool people through its community! 
     - Along with my friends, we made [BobaGuessr](https://github.com/BrilliantDeviation7/BobaGuessr) in 2023 and [TaskApp](https://github.com/connorcarey/task-app) in 2024!
 
