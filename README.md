@@ -10,7 +10,7 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, an ambitious rising High School senior with a love for **computer science**! 
+Hi! My name is Vivek Mehta, an ambitious High School senior with a love for **computer science**! 
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. 
 
