@@ -19,7 +19,7 @@ I'm fascinated with theoretical computer science, control theory, and automation
 <hr></hr>
 
 
-<details open>
+<details close>
 <summary> Here are a few of my projects~ </summary>
 
   - **VEX Robotics** - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
