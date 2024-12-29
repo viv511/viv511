@@ -50,21 +50,19 @@ I'm fascinated with theoretical computer science, control theory, and automation
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> 
 
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="github.png"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="imgs/github.png"/>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="git.png"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="imgs/git.png"/>
 
 <!-- <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>  -->
 
 <img align="left" alt="Vsc" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> 
 
+<img align="left" alt="Canva" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> 
+
 <img align="left" alt="p5js" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg"/> 
 
-<img align="left" alt="html" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
-
-<img align="left" alt="css" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
-
-<img align="left" alt="Colab" width="28px" style="padding-right:10px;" src="colab.png"/>
+<img align="left" alt="Colab" width="28px" style="padding-right:10px;" src="imgs/colab.png"/>
 
 <img align="left" alt="Python" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
@@ -72,17 +70,20 @@ I'm fascinated with theoretical computer science, control theory, and automation
 
 <img align="left" alt="TF" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 
-<img align="left" alt="Canva" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/> 
+<img align="left" alt="Google Apps Script" width="28px" style="padding-right:10px;" src="imgs/googleappsscript.png"/> 
+
+<img align="left" alt="html" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
+
+<img align="left" alt="css" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
 
 <img align="left" alt="Java" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
 
 <img align="left" alt="Go" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/> 
 
-<img align="left" alt="Unity" width="28px" style="padding-right:10px;" src="unity.png"/>
+<img align="left" alt="Unity" width="28px" style="padding-right:10px;" src="imgs/unity.png"/>
 
 <img align="left" alt="R" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/> 
 
-<img align="left" alt="Notion" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/> 
 
 </p>
 
