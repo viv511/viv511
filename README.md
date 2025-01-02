@@ -10,7 +10,7 @@
 
 <p align="center">
 
-Hi! My name is Vivek Mehta, an ambitious High School senior with a love for **computer science**! 
+Hi! My name is Vivek Mehta, an ambitious High School senior with a love for **computer science**! I'll be joining Carnegie Mellon in the fall studying CS in the class of '29!
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I love sharing this passion with others & I'm always excited to meet new people. 
 
@@ -23,7 +23,7 @@ I'm fascinated with theoretical computer science, control theory, and automation
 <summary> Here are a few of my projects~ </summary>
 
   - **VEX Robotics** - [Team 66659a](https://www.robotevents.com/teams/V5RC/66659A)
-    - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles within leading the team as the software lead and club captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
+    - I've been lucky to have been part of such a great team and environment. I was the sole coder on our team when we were all freshman, but since then I have been able to take pivotal roles in leading the team as the software lead and club captain. My GitHub page contains the codebase for three VEX seasons: Tipping Point, Spin Up, & Over Under. 
   - **Slime Combine!**
     - [This project](https://itch.io/jam/brackeys-5/rate/928475) was built in under a week with [@citrus-melon](https://github.com/citrus-melon), for a Brackey's Game Jam hosted on itch.io. Out of the 1824 entries in the jam, we scored #33rd in Game Design & #64th in Overall categories.  
   - **Simulations!**
