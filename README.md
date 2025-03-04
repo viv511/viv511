@@ -118,3 +118,5 @@ I'm fascinated with theoretical computer science, control theory, and automation
 </p>
 
 </span>
+
+*“What I cannot create, I do not understand”* - R. Feynman
