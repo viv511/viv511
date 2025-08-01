@@ -110,6 +110,5 @@ I'm fascinated with theoretical computer science, control theory, and automation
   
 ![](https://komarev.com/ghpvc/?username=viv511&style=flat&color=f88bff)
 
+*“What I cannot create, I do not understand”* - R. Feynman
 </p>
-</span>
-_“What I cannot create, I do not understand”_ - R. Feynman
