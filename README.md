@@ -14,7 +14,7 @@ Hi! I'm Vivek (rhymes with cake)! I'm an enthusiastic and driven CS student @ CM
 
 I love to code because I love breaking down problems into smaller parts, utilizing my problem-solving and creative skills. I also love sharing this passion with others & I'm always excited to meet new people.
 
-I'm fascinated with theoretical computer science, control theory, and automation (mostly from my fanatic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development.
+I'm fascinated with theoretical computer science, control theory, and automation (mostly from my sporadic robotics and competitive programming adventures), especially when they are applied in other disciplines such as biology. Recently, I've begun my journey into studying AI & Data science, but I also enjoy game & web development.
 
 <hr></hr>
 
