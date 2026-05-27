@@ -18,6 +18,8 @@ I'm fascinated with theoretical computer science, control theory, and automation
 
 <hr></hr>
 
+<!-- 
+
 <details close>
 <summary> Here are a few of my projects~ </summary>
 
@@ -38,6 +40,7 @@ I'm fascinated with theoretical computer science, control theory, and automation
     - Along with my friends, we made [BobaGuessr](https://github.com/BrilliantDeviation7/BobaGuessr) in 2023 and [TaskApp](https://github.com/connorcarey/task-app) in 2024!
 
 </details>
+-->
 
 ~viv511
 
